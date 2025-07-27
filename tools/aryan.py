@@ -1,6 +1,6 @@
 from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig, function_tool, enable_verbose_stdout_logging
 
-gemini_api_key = "AIzaSyBWGYNREjwmSgTsJXeEB_Cucs28CGb1gUc"
+gemini_api_key = "Your api key"
 
 enable_verbose_stdout_logging()
 
