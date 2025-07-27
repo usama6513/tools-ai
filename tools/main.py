@@ -1,6 +1,6 @@
 from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig
 
-gemini_api_key = "AIzaSyBWGYNREjwmSgTsJXeEB_Cucs28CGb1gUc"
+gemini_api_key = "your api key"
 
 def fetch_weather(city: str):
     """
